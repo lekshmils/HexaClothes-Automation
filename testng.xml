@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="HexaClothes Test Suite">
+
+    <test name="HexaClothes Tests">
+
+        <classes>
+
+            <!-- Login -->
+            <class name="Login.LoginGeneralTest"/>
+            <class name="Login.LoginValidationTest"/>
+            <class name="Login.LoginVerificationTest"/>
+
+            <!-- Register -->
+            <class name="Register.RegisterGeneralTest"/>
+            <class name="Register.RegisterValidationTest"/>
+            <class name="Register.RegisterVerificationTest"/>
+
+            <!-- Home -->
+            <class name="Home.HomeGeneralTest"/>
+            <class name="Home.HomeValidationTest"/>
+            <class name="Home.HomeVerificationTest"/>
+
+            <!-- Cart -->
+            <class name="Cart.CartGeneralTest"/>
+            <class name="Cart.CartValidationTest"/>
+            <class name="Cart.CartVerificationTest"/>
+
+            <!-- Wishlist -->
+            <class name="Wishlist.WishlistGeneralTest"/>
+            <class name="Wishlist.WishlistTest"/>
+
+            <!-- Checkout -->
+            <class name="Checkout.CheckoutGeneralTest"/>
+            <class name="Checkout.CheckoutValidationTest"/>
+            <class name="Checkout.CheckoutVerificationTest"/>
+
+        </classes>
+
+    </test>
+
+</suite>
