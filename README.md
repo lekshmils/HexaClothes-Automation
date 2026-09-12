@@ -1,4 +1,4 @@
-# HexaClothes - Selenium Automation
+# HexaClothes -Automation
 
 ## Project Overview
 
