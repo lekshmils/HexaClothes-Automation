@@ -53,7 +53,7 @@ HexaClothes-Automation
 ├── pom.xml
 ├── testng.xml
 └── README.md
-
+```
 Testing Documents
 
 * Test Plan → View Document(https://docs.google.com/document/d/1xxR5YsHVaaB9hdAaKqkTPZuV0vxZVNPmlOygEZjE4mc/edit?usp=drivesdk)
