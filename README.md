@@ -56,14 +56,11 @@ HexaClothes-Automation
 ```
 Testing Documents
 
-* Test Plan → View Document(https://docs.google.com/document/d/1xxR5YsHVaaB9hdAaKqkTPZuV0vxZVNPmlOygEZjE4mc/edit?usp=drivesdk)
-* Test Cases → View Document(https://docs.google.com/spreadsheets/d/1ljvCda64n2JyRuSwTuyrcVaqgrmE_nmlXLAAOKt1Y6c/edit?usp=drivesdk)
-* Testing Document 3 → View Document
-* Testing Document 4 → View Document
-* Testing Document 5 → View Document
-* Testing Document 6 → View Document
+* Test Plan: View Test Plan
+* Test Cases: View Test Cases
+* Test Summary Report: View Test Summary Report
+* Defect Report: View Defect Summary Report
+* Test Sign-Off Report: View Test Sign-Off Report
+* Bug Screenshots: View Bug Screenshots
 
-Project Folders
 
-* Testing Documents Folder
-* Additional Project Folder
